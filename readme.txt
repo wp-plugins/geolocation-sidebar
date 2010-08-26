@@ -11,9 +11,9 @@ This widget shows visitor's location on map.
 
 == Installation ==
 
-1. Extract the zip file Geolocation_sidebar.zip, then you will see the directory which is named as Geolocation_sidebar
+1. Extract the zip file geolocation-sidebar.zip, then you will see the directory which is named as geolocation-sidebar
 
-2. Upload the Geolocation_sidebar directory to the `/wp-content/plugins/` directory on the your web server
+2. Upload the geolocation-sidebar file to the `/wp-content/plugins/` directory on the your web server
 
 3. Activate the plugin through the 'Plugins' menu in WordPress admin panel
 
